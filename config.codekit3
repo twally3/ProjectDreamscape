@@ -73,12 +73,62 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/public\/img\/larry.jpg": {
+		"ft": 16384,
+		"iS": 88256,
+		"oA": 0,
+		"oAP": "\/public\/img\/larry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/img\/larry2.jpg": {
+		"ft": 16384,
+		"iS": 165231,
+		"oA": 0,
+		"oAP": "\/public\/img\/larry2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/img\/larry3.jpg": {
+		"ft": 16384,
+		"iS": 69090,
+		"oA": 0,
+		"oAP": "\/public\/img\/larry3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/public\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/index.html",
 		"oF": 0
+		},
+	"\/public\/js\/main.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/public\/js\/main-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/public\/js\/Timer.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/public\/js\/Timer-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
 		},
 	"\/public\/sass\/style.sass": {
 		"aP": 1,
